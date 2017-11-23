@@ -15,3 +15,9 @@
 
 * Créer un jar exécutable
 * Créer un uber jar
+
+## Profils
+
+* Configuration fichier
+* Filtering
+* Profils
