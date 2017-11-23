@@ -1,6 +1,6 @@
-## Dans le cadre d'une formation MAVEN
+# Dans le cadre d'une formation MAVEN
 
-# Prise en main
+## Prise en main
 
 * Generation d'un projet Maven Simple
 * Compilation
@@ -11,7 +11,7 @@
 * Intégration d'une librairie tierce
 
 
-# Plugins
+## Plugins
 
 * Créer un jar exécutable
 * Créer un uber jar
